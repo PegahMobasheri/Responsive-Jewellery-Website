@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&display=swap");
+@import url(../fonts/remixicon.css);
+@import "tailwindcss";
+
+@theme {
+    --font-display: "Bodoni Moda", serif;
+}
+
+@font-face {
+    font-family: 'remixicon';
+    src: url(../fonts/remixicon.ttf) format('truetype');
+
+}
+
+@layer utilities {
+    .bord {
+        border: 3px solid red;
+    }
+
+    .back {
+        background-color: rgb(226, 216, 104);
+    }
+
+    .shad {
+        box-shadow: 0 0 0 6px rgba(245, 245, 245, 0.459);
+    }
+
+    .bordi {
+        border: 1px solid rgba(201, 200, 200, 0.584);
+    }
+
+    .polygon {
+        aspect-ratio: 1;
+        clip-path: shape(from 92.85% 72%, curve to 84.17% 83.95% with 90.45% 79.39%, line to 71.73% 92.99%, curve to 57.68% 97.55% with 65.45% 97.55%, line to 42.32% 97.55%, curve to 28.27% 92.99% with 34.55% 97.55%, line to 15.83% 83.95%, curve to 7.15% 72% with 9.55% 79.39%, line to 2.4% 57.39%, curve to 2.4% 42.61% with 0% 50%, line to 7.15% 28%, curve to 15.83% 16.05% with 9.55% 20.61%, line to 28.27% 7.01%, curve to 42.32% 2.45% with 34.55% 2.45%, line to 57.68% 2.45%, curve to 71.73% 7.01% with 65.45% 2.45%, line to 84.17% 16.05%, curve to 92.85% 28% with 90.45% 20.61%, line to 97.6% 42.61%, curve to 97.6% 57.39% with 100% 50%);
+    }
+
+}
