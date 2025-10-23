@@ -30,9 +30,7 @@ This is my **first responsive project**, focused mainly on building a clean, mod
 
 ![Mobile Screenshot](https://github.com/user-attachments/assets/278b3a99-4520-4988-bd4d-b7d52bac6283)
 
-
-### 🧩 screen4
-![Tablet Screenshot](./screenshots/tablet-view.png)
+![Tablet Screenshot](https://github.com/user-attachments/assets/1bfed83e-d9bd-4e43-ba4e-8ab02a94b1c5)
 
 ### 🧩 screen5
 ![Tablet Screenshot](./screenshots/tablet-view.png)
