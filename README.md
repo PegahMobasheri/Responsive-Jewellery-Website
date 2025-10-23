@@ -19,7 +19,6 @@ This is my **first responsive project**, focused mainly on building a clean, mod
 
 👉 [View Live Project](https://pegahmobasheri.github.io/Responsive-Jewellery-Website/)
 
-
 ---
 
 ## 🖼️ Screenshots
@@ -34,9 +33,7 @@ This is my **first responsive project**, focused mainly on building a clean, mod
 
 ![Tablet Screenshot](https://github.com/user-attachments/assets/9475aa8b-c3b5-43e8-bdbe-743b17d752c7)
 
-### 🧩 screen6
-![Tablet Screenshot](./screenshots/tablet-view.png)
-
+![Tablet Screenshot](https://github.com/user-attachments/assets/ed68a544-63af-4215-a247-ae0d7399c0df)
 
 ---
 
