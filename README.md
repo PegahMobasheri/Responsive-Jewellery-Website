@@ -28,7 +28,7 @@ This is my **first responsive project**, focused mainly on building a clean, mod
 ![Desktop Screenshot](https://github.com/user-attachments/assets/2d69b18e-511d-4749-80ad-5106a1ae30fb)
 
 ### 🧩 screen2
-![Mobile Screenshot](./screenshots/mobile-view.png)
+![Mobile Screenshot](https://github.com/user-attachments/assets/278b3a99-4520-4988-bd4d-b7d52bac6283)
 
 ### 🧩 screen3
 ![Tablet Screenshot](./screenshots/tablet-view.png)
